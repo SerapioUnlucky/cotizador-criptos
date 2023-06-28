@@ -112,7 +112,7 @@ export const Formulario = ({ setCotizacion, setCargando }) => {
 
     const monedas = [
         { id: 'USD', nombre: 'Dolar de Estados Unidos' },
-        { id: 'CLP', nombre: 'Peso chileno' },
+        { id: 'CLP', nombre: 'Peso Chileno' },
         { id: 'EUR', nombre: 'Euro' },
         { id: 'GBP', nombre: 'Libra Esterlina' }
     ];
